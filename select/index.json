@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "アムスフィッシュ",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-16T08:58:37.691329Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アムスフィッシュ",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/01_アムスフィッシュ_サカナクション.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アムスフィッシュ",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_アムスフィッシュ_サカナクション.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アムスフィッシュ",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_アムスフィッシュ_サカナクション.txt"
+    }
+  ]
+}
